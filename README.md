@@ -40,8 +40,8 @@ npm i vue-rule-scale
 </script>
 
 ```
-![image text](https://gitee.com/null_826_5633/vue-rule-scale/blob/master/height.png)
-![image text](https://gitee.com/null_826_5633/vue-rule-scale/blob/master/weight.png)
+![image text](https://gitee.com/null_826_5633/vue-rule-scale/raw/master/height.png)
+![image text](https://gitee.com/null_826_5633/vue-rule-scale/raw/master/weight.png)
 
 ```
 // 弹窗显示的时候需要手动触发touchstarts方法
