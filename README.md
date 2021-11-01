@@ -1,4 +1,5 @@
-
+### rule
+移动端刻度筛选 移动端身高体重筛选 刻度筛选
 ### How to use?
 ```bash
 npm i vue-rule-scale
@@ -43,7 +44,7 @@ npm i vue-rule-scale
 ![image text](https://gitee.com/null_826_5633/vue-rule-scale/raw/master/height.png)
 ![image text](https://gitee.com/null_826_5633/vue-rule-scale/raw/master/weight.png)
 
-```
+```js
 // 弹窗显示的时候需要手动触发touchstarts方法
 this.$nextTick(()=>{
     this.$refs.rule.touchstarts()
